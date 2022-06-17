@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentelemetry-context-1.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/context/main/opentelemetry-context-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

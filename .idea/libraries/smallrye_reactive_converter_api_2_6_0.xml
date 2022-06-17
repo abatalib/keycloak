@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smallrye-reactive-converter-api-2.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/reactive/converters/api/main/smallrye-reactive-converter-api-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

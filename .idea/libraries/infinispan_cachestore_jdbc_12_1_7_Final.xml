@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-cachestore-jdbc-12.1.7.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/persistence/jdbc/main/infinispan-cachestore-jdbc-12.1.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

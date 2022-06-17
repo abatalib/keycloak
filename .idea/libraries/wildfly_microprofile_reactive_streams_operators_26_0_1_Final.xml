@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-microprofile-reactive-streams-operators-26.0.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/extension/microprofile/reactive-streams-operators-smallrye/main/wildfly-microprofile-reactive-streams-operators-26.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

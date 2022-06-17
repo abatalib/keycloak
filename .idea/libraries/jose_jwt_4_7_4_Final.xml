@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jose-jwt-4.7.4.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/resteasy/jose-jwt/main/jose-jwt-4.7.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

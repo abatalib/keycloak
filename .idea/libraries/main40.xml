@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="main40">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-exporter-otlp-trace-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-exporter-jaeger-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-semconv-1.5.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-proto-1.5.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-sdk-trace-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-sdk-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-sdk-common-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-api-metrics-1.5.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/trace/main/opentelemetry-exporter-otlp-common-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="main38">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-autoconfig-core-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-api-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/fault-tolerance/main/smallrye-fault-tolerance-core-5.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

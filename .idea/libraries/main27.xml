@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main27">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/squareup/okhttp3/main/okhttp-3.14.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/com/squareup/okhttp3/main/okio-1.17.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

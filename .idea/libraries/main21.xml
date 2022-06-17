@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="main21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ironjacamar/impl/main/ironjacamar-common-impl-1.5.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ironjacamar/impl/main/ironjacamar-deployers-common-1.5.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ironjacamar/impl/main/ironjacamar-core-impl-1.5.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/ironjacamar/impl/main/ironjacamar-validator-1.5.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

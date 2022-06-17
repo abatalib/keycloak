@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-elytron-http-stateful-basic-1.18.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/security/http/sfbasic/main/wildfly-elytron-http-stateful-basic-1.18.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

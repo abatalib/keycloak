@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="main11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/jwt/main/smallrye-jwt-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/jwt/main/smallrye-jwt-cdi-extension-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/jwt/main/smallrye-jwt-common-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/jwt/main/smallrye-jwt-http-mechanism-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

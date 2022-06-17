@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-domain-http-error-context-18.0.4.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/jboss/as/domain-http-error-context/main/wildfly-domain-http-error-context-18.0.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

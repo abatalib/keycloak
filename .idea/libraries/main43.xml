@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main43">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/openapi/main/smallrye-open-api-core-2.1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/openapi/main/smallrye-open-api-jaxrs-2.1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

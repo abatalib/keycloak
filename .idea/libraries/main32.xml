@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/metrics/main/smallrye-metrics-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/metrics/main/smallrye-metrics-api-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

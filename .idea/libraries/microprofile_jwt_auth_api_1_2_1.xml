@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="microprofile-jwt-auth-api-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/eclipse/microprofile/jwt/auth/api/main/microprofile-jwt-auth-api-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

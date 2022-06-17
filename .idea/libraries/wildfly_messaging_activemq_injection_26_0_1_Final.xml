@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-messaging-activemq-injection-26.0.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/extension/messaging-activemq/injection/main/wildfly-messaging-activemq-injection-26.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

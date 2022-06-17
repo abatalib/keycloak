@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/api/main/opentelemetry-api-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/opentelemetry/api/main/opentelemetry-semconv-1.5.0-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

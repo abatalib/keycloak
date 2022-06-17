@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-opentelemetry-api-26.0.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/wildfly/extension/opentelemetry-api/main/wildfly-opentelemetry-api-26.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

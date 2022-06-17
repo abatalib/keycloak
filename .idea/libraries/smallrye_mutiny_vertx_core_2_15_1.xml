@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smallrye-mutiny-vertx-core-2.15.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/smallrye/reactive/mutiny/vertx-core/main/smallrye-mutiny-vertx-core-2.15.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

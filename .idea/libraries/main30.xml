@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/jaegertracing/jaeger/main/jaeger-thrift-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/io/jaegertracing/jaeger/main/jaeger-core-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

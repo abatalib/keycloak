@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="protostream-types-4.4.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/protostream/types/main/protostream-types-4.4.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

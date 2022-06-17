@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-cachestore-remote-12.1.7.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/infinispan/persistence/remote/main/infinispan-cachestore-remote-12.1.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

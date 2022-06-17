@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jose4j-0.7.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modules/system/layers/base/org/bitbucket/jose4j/main/jose4j-0.7.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
